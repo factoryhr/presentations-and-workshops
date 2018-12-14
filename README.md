@@ -5,3 +5,4 @@
 | 16.05.2018. | Presentation | [JavaScript od null-e](/slides/javascript-od-null-e) |
 | May, 2018   | Workshop     | [Laravel workshop](/slides/laravel-radionica)         |
 | June, 2018. | Workshop     | [JavaScript workshop](/slides/javascript-workshop)   |
+| December, 2018. | Workshop     | [React workshop](/slides/react-workshop)   |
